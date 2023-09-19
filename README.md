@@ -1,2 +1,2 @@
-# YBI-TaskProject
-Projects done in Business Analytics Internship by YBI Foundation
+# TaskProject
+Projects are done to complete Internships.
